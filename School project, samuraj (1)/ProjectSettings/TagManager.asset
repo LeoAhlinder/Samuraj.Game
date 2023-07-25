@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - WorldBorder
+  - Shuriken
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemis
+  - players
+  - PROPS
+  - GOBLIN
+  - flyingeye
+  - worldborder
+  - Sign
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Nah
+    uniqueID: 3560922803
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1332316421
+    locked: 0
+  - name: UI
+    uniqueID: 1791816097
+    locked: 0
+  - name: Signs
+    uniqueID: 2212055455
+    locked: 0
